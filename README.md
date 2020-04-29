@@ -10,4 +10,5 @@ I've created the blured images by [this script](https://github.com/Vergil333/dyn
 ### Installation
 - clone this repository
 - in /desktop/mojave.xml and /lockscreen/lockscreen_mojave.xml change all of the pats to the images to your actual path and save the files.
-- go to gnome tweaks -> Appearance -> Background/Lock Screen -> Image and put the xml files in there [tweaks.png](https://github.com/Vergil333/dynamic-mac-like-wallpaper-and-lockscreen/tweaks.png)
+- go to gnome tweaks -> Appearance -> Background/Lock Screen -> Image and put the xml files in there.
+[tweaks.png](https://github.com/Vergil333/dynamic-mac-like-wallpaper-and-lockscreen/blob/master/tweaks.png)
