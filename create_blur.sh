@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for w in mojave_dynamic_*.jpeg
+for w in desktop/mojave_dynamic_*.jpeg
 do
 	echo "Converting $w file..."
 	convert $w -blur 0x5 lockscreen/blur_$w
